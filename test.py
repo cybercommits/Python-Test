@@ -21,7 +21,6 @@ print (type(int('1')))
 print (type(float('1.5')))
 print (str(1.5))
 print (str(1.5) + ' is a float')
-help(int)
 
 
 
